@@ -1,0 +1,79 @@
+
+
+#totalconfirmed_div{
+    /*position: relative;*/
+    /*top:-480px;*/
+    /*left:660px;*/
+    z-index: 2;
+}
+
+#totalconfirmed_div span{
+    font-size: 16px;
+}
+
+#totaltable{
+    /*width: 900px;*/
+}
+
+#regions_div{
+    /*width: 900px;*/
+    /*height: 500px;*/
+    z-index: 1;
+}
+/*라인차트 */
+#chartdiv {
+    height: 400px;
+    width: 100%;
+}
+
+.daycharttitlte{
+    display: inline-block;
+    margin-left: 20px;
+}
+
+/* 가로막대정렬그래프 */
+#chartdiv2 {
+    width: 100%;
+    height: 500px;
+}
+.barspan{
+    font-size: 1px
+}
+/* 사이드 그래프 */
+#chartdiv3, #chartdiv4 {
+    width: 100%;
+    height: 500px;
+}
+#colortext{
+    text-align: center;
+}
+.sidediv{
+    padding: 50px 0px;
+}
+.div1_titles, .div2_titles{ /* 상단 버튼및 제목 */
+    position: relative;
+    text-align: center;
+}
+.div1_select, .div2_select{ /* 상단 버튼및 제목 */
+    position: absolute;
+    left: 25px;
+    bottom: 5px;
+}
+.daycharttitlte_m{/*차트 제목 모바일버전 위치*/
+    position: absolute;
+    right: 25px;
+    bottom: 5px;
+}
+
+
+/*.entityPickerDiv{ 작동안함 */
+/*    max-height:900px;*/
+/*    background-color: #fff;*/
+/*    padding: 2%;*/
+/*    overflow-y:scroll;	!* div 내 내용이 세로 길이를 초과하면 스크롤바가 생성됨. *!*/
+/*}*/
+
+/*#entityPickerDiv{*/
+/*    height: 50vh;*/
+/*    overflow-scrolling: auto;*/
+/*}*/
