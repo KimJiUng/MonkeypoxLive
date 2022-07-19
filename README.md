@@ -56,23 +56,7 @@
 
 ***
 
-### DB 설계
 
-![Database](3/readmeimg/Database.jpg)
+### 사이트 주소
 
-***
-
-### 컨트롤 구조도
-
-![Control](3/readmeimg/Control.jpg)
-
-***
-
-### VIEW[FXML] 프로토타입
-
-![Login](3/readmeimg/login.png)
-![Signup](3/readmeimg/signup.png)
-![Main](3/readmeimg/main.png)
-![Reservationconfirm](3/readmeimg/Reservationconfirm.png)
-![결제](3/readmeimg/결제.png)
-***
+<a href="https://monkeypoxlive.kr/">https://monkeypoxlive.kr/</a>
